@@ -1,0 +1,38 @@
+{
+  "name": "react-base",
+  "version": "0.0.1",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiubao/react-base.git"
+  },
+  "author": "jiubao <xia.ldj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiubao/react-base/issues"
+  },
+  "homepage": "https://github.com/jiubao/react-base#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "express": "^4.17.1",
+    "file-loader": "^4.2.0",
+    "sass-loader": "^7.2.0",
+    "style-loader": "^1.0.0",
+    "url-loader": "^2.1.0",
+    "webpack": "^4.39.2"
+  }
+}
